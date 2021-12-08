@@ -375,6 +375,9 @@ img {
   border: 1px solid #afb1b8;
   border-radius: 4px;
   color: var(--text-color);
+  width: 170px;
+  height: 92px;
+  padding: 16px 32px;
 }
 
 .clients-link:hover {
